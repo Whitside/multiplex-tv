@@ -24,9 +24,11 @@ On some TVs the menu is called **Install unknown apps** instead. If you can't fi
 ### 3. Download MultiPlex
 
 1. Open **Downloader**.
-2. In the box on its Home screen, type this address and press **Go**:
+2. In the box on its Home screen, type this code and press **Go**:
 
-   **`multiplex.whitside.com/get`**
+   **`6073252`**
+
+   (Or type the address instead: **`multiplex.whitside.com/get`**)
 
 Downloader fetches the newest MultiPlex from this page's releases.
 
